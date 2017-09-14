@@ -2,7 +2,7 @@
 // (runtime-only or standalone) has been set in webpack.base.conf with an alias.
 import Vue from 'vue'
 import App from './App'
-import router from './router' // 貌似没用用到
+//import router from './router' // 貌似没用用到
 // var vueResource = require('vue-resource');
 import vueResource  from 'vue-resource'
 Vue.use(vueResource );
